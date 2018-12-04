@@ -9,4 +9,4 @@ JS-Native 交互专题终于可以与大家见面了，这个专题旨在能够�
 第三章 介绍了 WKWebView，以及一些调试技巧；
 第四章 主要对前面讲到的知识进行实践，其中 JSPatch 部分理解起来比较吃力，如果读者想深挖 JSPatch 可以结合源码一起看本章内容，理解起来更透彻。
 
-### CSDN：https://blog.csdn.net/u010960265/article/details/83029774
+### [详细查看博客](https://blog.csdn.net/u010960265/article/details/83029774)
